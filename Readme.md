@@ -1,6 +1,6 @@
 # Cyrie Hannanael G. Tee - Weather App
 
-## How to open the Chat App in local development.
+## How to open the Weather App in local development.
 
 1. Download the ZIP file and then extract.
 
